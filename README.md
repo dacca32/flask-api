@@ -1,9 +1,6 @@
-# headintheclouds YouTube - Flask CRUD API with Docker Compose
+# Flask CRUD API with Docker Compose
 
-Welcome to the headintheclouds repository! Here, we provide a hands-on exercise to learn Docker Compose with variables using real-world examples. In this repository, you will find Python Flask CRUD API code along with Dockerfile, Docker Compose configuration, .env file, and requirements.txt.
-
-### Purpose
-The purpose of this repository is to offer a practical way for developers to understand Docker Compose and its usage with variables. By following along with our YouTube tutorial series, you can dive into Docker Compose while building a Flask CRUD API. This approach makes learning fun and interactive, helping our community to grow and strengthen their Docker skills.
+In this repository, you will find Python Flask CRUD API code along with Dockerfile, Docker Compose configuration, .env file, and requirements.txt.
 
 ### Contents
 - app.py: Contains the Python Flask CRUD API code.
